@@ -6,3 +6,5 @@ week4.ipynb
 gitignore
 Author_degrees.ipynb
 Assignment2-3.ipynb
+authors_graph.json
+*.pkl
